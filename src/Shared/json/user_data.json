@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "username": "sai",
+      "email": "sai@gmail.com",
+      "password": "sai",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Rose-In-A-Box Personalized gift box",
+      "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt7prodlp/products/p-rose-in-a-box-personalized-exploding-box-153222-m.jpg",
+      "price": "560",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Gift Box With Lantern And Personalized Card",
+      "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt12prodlp/products/p-chocolate-gift-box-with-lantern-and-personalized-card-153138-m.jpg",
+      "price": "299",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Promise Personalized Heart Pop-Up Box With Treats",
+      "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt12prodlp/products/p-promise-personalized-heart-pop-up-box-with-treats-154040-m.jpg",
+      "price": "399",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Rose-In-A-Box Personalized Exploding Box",
+      "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt7prodlp/products/p-rose-in-a-box-personalized-exploding-box-153222-m.jpg",
+      "price": "399",
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "name": "Mighty Thor Personalized Puzzle",
+      "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt7prodlp/products/p-mighty-thor-personalized-puzzle-190621-m.jpg",
+      "price": "499",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "name": "Personalized Love Puzzle with Candy",
+      "image": "https://cdn.igp.com/f_auto,q_auto,t_pnopt12prodlp/products/p-personalized-love-puzzle-with-candy-204126-m.jpg",
+      "price": "199",
+      "quantity": 0
+    }
+  ]
+}
